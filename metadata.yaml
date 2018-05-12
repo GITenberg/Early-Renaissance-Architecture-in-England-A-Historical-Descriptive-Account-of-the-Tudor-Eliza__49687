@@ -1,4 +1,8 @@
 _repo: Early-Renaissance-Architecture-in-England-A-Historical-Descriptive-Account-of-the-Tudor-Eliza__49687
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49687-h/images/cover.jpg
 creator:
   author:
     agent_name: Gotch, J. Alfred
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45489
     wikipedia: https://en.wikipedia.org/wiki/John_Alfred_Gotch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49687#Early-Renaissance-Architecture-in-England-A-Historical-Descriptive-Account-of-the-Tudor-Eliza_
 gutenberg_issued: '2015-08-12'
 gutenberg_type: Text
 identifiers:
