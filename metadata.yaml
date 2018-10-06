@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "Early Renaissance Architecture in England\r\nA Historical & Descriptive Account\
   \ of the Tudor, Elizabethan, & Jacobean Periods, 1500-1625"
 url: http://www.gutenberg.org/ebooks/49687
